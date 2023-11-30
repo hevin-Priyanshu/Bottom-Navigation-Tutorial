@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomNavigationApp</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentA">Hello A fragment</string>
+    <string name="fragmentB">Hello B fragment</string>
+    <string name="fragmentC">Hello C fragment</string>
+    <string name="fragmentD">Hello D fragment</string>
+    <string name="fragmentE">Hello E fragment</string>
+
+</resources>
